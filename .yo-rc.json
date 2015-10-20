@@ -1,0 +1,11 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Descobrindo o Git",
+    "packageVersion": "0.0.0",
+    "revealTheme": "blood",
+    "useSass": false,
+    "deployToGithubPages": true,
+    "githubUsername": "nathcampreguer",
+    "githubRepository": "git-workshop-slides"
+  }
+}
