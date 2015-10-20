@@ -1,0 +1,9 @@
+[
+    "index.md",
+    {
+        "filename": "meu-primeiro-slide.md",
+        "attr": {
+            "data-background": "#ff0000"
+        }
+    }
+]
