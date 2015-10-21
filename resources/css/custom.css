@@ -1,0 +1,16 @@
+.reveal code {
+  font-size: 32px;
+  line-height: 40px;
+}
+
+.reveal blockquote {
+  width: 100%;
+}
+
+.reveal .octodex-img {
+  max-width: 50%;
+}
+
+.reveal .bigger-img {
+  width: 120%;
+}
