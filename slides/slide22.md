@@ -1,3 +1,1 @@
-### Fork Fork Fork
-
-<img src="https://help.github.com/assets/images/site/fork-a-repo.gif" class=""></img>
+<img src="http://nowhereland.it/blog/fp-content/images/fork-me-im-famous.png" class="bigger-img"></img>
