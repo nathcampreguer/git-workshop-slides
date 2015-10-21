@@ -1,9 +1,41 @@
 [
     "index.md",
+    "slide0.md",
     {
-        "filename": "meu-primeiro-slide.md",
+        "filename": "slide1.md",
         "attr": {
             "data-background": "#ff0000"
         }
-    }
+    },
+    "slide1-5.md",
+    "slide2.md",
+    "slide3.md",
+    "slide4.md",
+    "slide5.md",
+    "slide6.md",
+    "slide6-1.md",
+    "slide6-2.md",
+    "slide6-3.md",
+    "slide7.md",
+    "slide8.md",
+    "slide8-5.md",
+    "slide9.md",
+    "slide10.md",
+    "slide11.md",
+    "slide12.md",
+    "slide13.md",
+    "slide14.md",
+    "slide15.md",
+    "slide16.md",
+    "slide17.md",
+    "slide18.md",
+    "slide19.md",
+    "slide20.md",
+    "slide21.md",
+    "slide22.md",
+    "slide23.md",
+    "slide24.md",
+    "slide25.md",
+    "slide26.md",
+    "slide27.md"
 ]
